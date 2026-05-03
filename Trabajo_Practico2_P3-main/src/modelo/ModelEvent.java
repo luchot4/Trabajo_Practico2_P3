@@ -1,0 +1,10 @@
+package modelo;
+
+public enum ModelEvent {
+	 	LOCALIDAD_AGREGADA,
+	    LOCALIDAD_ELIMINADA,
+	    PARAMETROS_ACTUALIZADOS,
+	    PLANIFICACION_CALCULADA
+}
+
+
